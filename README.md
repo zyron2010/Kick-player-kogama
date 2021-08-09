@@ -1,2 +1,2 @@
-# Kick-player-kogama
-New kick player kogama by lawlao
+# Samurai Console
+Private console by lawlao
